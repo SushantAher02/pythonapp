@@ -7,8 +7,8 @@ cd myflaskapp/
 python3 -m venv venv
 source venv/bin/activate
 sudo yum install git -y
-git config --global user.name "roshanip patil”
-git config --global user.email "roshani patil@hotmail.com"
+git config --global user.name "SushantAher02”
+git config --global user.email "ahersushant222@gmail.com"
 git init
 git pull https://github.com/ravibagale/pythonapp.git
 pip install -r requirements.txt
